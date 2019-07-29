@@ -16,5 +16,5 @@ Lábkiosztás:
 | 27    |       | Pin4  |
 | 32    |       | Pin5  |
 | 33    |       | Pin3  |
-| 34    |       | DIO0  |
+| 34    | DIO0  |       |
 | 35    |       | Pin7  |
